@@ -1,0 +1,11 @@
+code: bundlesa
+description: test
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  groups:
+    - groups/groups-descriptor.yaml
+  assets:
+    - assets/7/7-descriptor.yaml
+  categories:
+    - categories/categories-descriptor.yaml
